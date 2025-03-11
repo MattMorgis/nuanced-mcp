@@ -2,6 +2,10 @@
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides call graph analysis capabilities to LLMs through the [nuanced](https://github.com/nuanced-dev/nuanced) library.
 
+<a href="https://glama.ai/mcp/servers/ugp1lwtv22">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/ugp1lwtv22/badge" alt="Nuanced Server MCP server" />
+</a>
+
 ## Overview
 
 This MCP server enables LLMs to understand code structure by accessing function call graphs through standardized tools and resources. It allows AI assistants to:
