@@ -192,16 +192,16 @@ wheels = [
 
 [[package]]
 name = "nuanced"
-version = "0.1.3"
+version = "0.1.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jarviscg" },
     { name = "setuptools" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/f4/a6/1d80c8bd9aae82876e614f9942536f3b319ce8b555c521bd5507190158f1/nuanced-0.1.3.tar.gz", hash = "sha256:e821a97edf77d6e25088b1e68bef62c4d6e81e341b88ca16284c1b35d4715c06", size = 23901 }
+sdist = { url = "https://files.pythonhosted.org/packages/d5/de/f96786ae44007ff8eb0ea3d8f112eaa3e2994615af290d7fa556ea479121/nuanced-0.1.4.tar.gz", hash = "sha256:03352050bf78233eaeee00ca55df7ebe7ae29e78afc4719ce2ac86ff88dbf3cf", size = 14918 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/63/df/108d0def02fa1f3aeeddd70521a288b6fc6c30032c55f952daf2f1e03498/nuanced-0.1.3-py3-none-any.whl", hash = "sha256:5ddb512c13e91f4c22d573f73c00778729f03043ea24ad901cdfd61e2382a7e7", size = 5866 },
+    { url = "https://files.pythonhosted.org/packages/b8/e5/9f73881a7cda332ac59948ec065d4d239bccb3cc235a166df68ae3f51e2f/nuanced-0.1.4-py3-none-any.whl", hash = "sha256:29bd7e3d00a9a0e89894c74d5d812883d94c00408e5e08701a5ac3f6e4b295b8", size = 6097 },
 ]
 
 [[package]]
@@ -216,7 +216,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "mcp", extras = ["cli"], specifier = ">=1.3.0" },
-    { name = "nuanced", specifier = ">=0.1.3" },
+    { name = "nuanced", specifier = ">=0.1.4" },
 ]
 
 [[package]]
